@@ -15,7 +15,7 @@ My current interests revolve around software testing and my goal for the next mo
 * Reporting bugs
 
 ## Courses
-* Manual software tester with introduction to automation
+* Manual software tester with introduction to automation - July 2022 - approx. 110 hours of knowledge gathering with final project in test cases automation
 
 ## Books
 * A. Roman, L. Stapp - Certified ISTQB Tester, Foundation Level (Certyfikowany tester ISTQB, Poziom podstawowy)
