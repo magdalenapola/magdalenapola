@@ -37,6 +37,9 @@ My current interests revolve around software testing and my goal for the next mo
 * [Testowanie aplikacji mobilnych](https://testujemy.mobi/)
 * [Bugfree blog](https://bugfreeblog.com/)
 
+## Forums
+* [Ministry of Testing Community](https://club.ministryoftesting.com/)
+
 ## Projects
 * Final project made during the software testing course - [Automated test cases for AutomationPractice website](https://github.com/magdalenapola/automationpractice)
 * Individual side project made for knowledge improvement [Automated test cases for AutomationPractice website - Page Object Model](https://github.com/magdalenapola/AutomationPracticePOM)
