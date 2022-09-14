@@ -40,7 +40,7 @@ My current interests revolve around software testing and my goal for the next mo
 ## Projects
 * Final project made during the software testing course - [Automated test cases for AutomationPractice website](https://github.com/magdalenapola/automationpractice)
 * Individual side project made for knowledge improvement [Automated test cases for AutomationPractice website - Page Object Model](https://github.com/magdalenapola/AutomationPracticePOM)
-* Tests report of mobile app with bugs & improvements listed and overall application quality check
+* Tests report of Flutter chatting mobile app with bugs & improvements listed and overall application quality check
   * [Business specification](https://drive.google.com/file/d/11dnjiMOoMv_oOj3dASle0jlXBVlPXEsV/view?usp=sharing)
   * [Tests report](https://drive.google.com/file/d/1yZCEzc1Wx1Xp2MQ3KxvQz1IWflfVaLCc/view?usp=sharing)
   
