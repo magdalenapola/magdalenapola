@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 ## About me
 My name is Magdalena Polachowska. I graduated from Poznan University of Economics with Masters degree in International Economic Relations. I am quite an artistic soul with attention to detail. I represent an unique combination of critical & creative mindset and I'm willing to put it into the testing world.
