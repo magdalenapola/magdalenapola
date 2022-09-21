@@ -21,6 +21,17 @@ My current interests revolve around software testing and my goal for the next mo
 * A. Roman, L. Stapp - Certified ISTQB Tester, Foundation Level (Certyfikowany tester ISTQB, Poziom podstawowy)
 * K. Pawłowska, N. Pawlak - Journey through the world of testing (Podróż przez świat testowania)
 
+## Projects
+* Final project made during the software testing course - [Automated test cases for AutomationPractice website](https://github.com/magdalenapola/automationpractice)
+* Individual side project made for knowledge improvement [Automated test cases for AutomationPractice website - Page Object Model](https://github.com/magdalenapola/AutomationPracticePOM)
+* Tests report of Flutter chatting mobile app with bugs & improvements listed and overall application quality check
+  * [Business specification](https://drive.google.com/file/d/11dnjiMOoMv_oOj3dASle0jlXBVlPXEsV/view?usp=sharing)
+  * [Tests report](https://drive.google.com/file/d/1yZCEzc1Wx1Xp2MQ3KxvQz1IWflfVaLCc/view?usp=sharing)
+  
+## Webinars I participated in
+* Jak rekrutujemy początkujących testerów - [4Testers](https://www.4testers.pl/)
+* Czym jest dobre testowanie? - [Test Master AmberTeam](https://www.facebook.com/AmberTeam)
+
 ## Groups for knowledge gathering
 * [Girls Who Test community](https://www.facebook.com/groups/girlswhotest)
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
@@ -40,12 +51,7 @@ My current interests revolve around software testing and my goal for the next mo
 ## Forums
 * [Ministry of Testing Community](https://club.ministryoftesting.com/)
 
-## Projects
-* Final project made during the software testing course - [Automated test cases for AutomationPractice website](https://github.com/magdalenapola/automationpractice)
-* Individual side project made for knowledge improvement [Automated test cases for AutomationPractice website - Page Object Model](https://github.com/magdalenapola/AutomationPracticePOM)
-* Tests report of Flutter chatting mobile app with bugs & improvements listed and overall application quality check
-  * [Business specification](https://drive.google.com/file/d/11dnjiMOoMv_oOj3dASle0jlXBVlPXEsV/view?usp=sharing)
-  * [Tests report](https://drive.google.com/file/d/1yZCEzc1Wx1Xp2MQ3KxvQz1IWflfVaLCc/view?usp=sharing)
+
   
 ## Get in touch
 [LinkedIn](https://www.linkedin.com/in/magdalena-polachowska/)
