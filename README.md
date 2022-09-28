@@ -27,7 +27,7 @@ My current interests revolve around software testing and my goal for the next mo
 * Tests report of Flutter chatting mobile app with bugs & improvements listed and overall application quality check
   * [Business specification](https://drive.google.com/file/d/11dnjiMOoMv_oOj3dASle0jlXBVlPXEsV/view?usp=sharing)
   * [Tests report](https://drive.google.com/file/d/1yZCEzc1Wx1Xp2MQ3KxvQz1IWflfVaLCc/view?usp=sharing)
-* [Bugs & improvements proporitions report for web recruitment form](https://drive.google.com/file/d/1MZsYRMX39KoJkW8izWtMd97fZ9nmbDVE/view?usp=sharing)
+* [Bugs & improvements proporitions report for online recruitment form](https://drive.google.com/file/d/1MZsYRMX39KoJkW8izWtMd97fZ9nmbDVE/view?usp=sharing)
  
   
 ## Webinars I participated in
