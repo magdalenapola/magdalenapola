@@ -31,7 +31,7 @@ My current interests revolve around software testing and my goal for the next mo
  
   
 ## Webinars I participated in
-* Porozmawiajmy o DevTools'ach! - [Java Girl](http://javagirl.pl/))
+* Porozmawiajmy o DevTools'ach! - [Java Girl](http://javagirl.pl/)
 * SQL dla testerów - [GeekON](https://krystianbrozek.pl/)
 * Bazy danych SQL - [GeekON](https://krystianbrozek.pl/)
 * Jak rekrutujemy początkujących testerów - [4Testers](https://www.4testers.pl/)
